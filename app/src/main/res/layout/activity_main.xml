@@ -17,14 +17,17 @@
       android:text="Notes"
       android:layout_marginStart="18dp"
     android:textColor="@color/orange"
-    android:textSize="24sp"/>
+    android:textSize="24sp"
+
+      />
 
   <androidx.recyclerview.widget.RecyclerView
       android:id="@+id/NotesRecycleView"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
       android:layout_marginTop="50dp"
-    android:padding="16dp"/>
+    android:padding="16dp"
+      />
 
 
 
